@@ -1,0 +1,38 @@
+.card{
+    padding: 20px;
+    border: 1px solid navy;
+    width: 250px;
+
+
+}
+
+.card img{
+    width: 200px;
+    height: 300px;
+}
+
+.card-buttons{
+    display:flex;
+    gap:10px;
+    justify-content: center;
+
+}
+.DeleteCard{
+    background-color: rgb(121, 7, 1);
+    color: white;
+    height: 45px;
+
+}
+
+.Vote{
+    background-color: rgb(196, 209, 233);
+    color: white;
+    height: 45px;
+
+}
+
+/* .Comment{
+
+
+
+} */

@@ -1,0 +1,17 @@
+.card-list{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.card-list img{
+    border-radius: 10px;
+}
+
+.card{
+    border-radius: 15px;
+}

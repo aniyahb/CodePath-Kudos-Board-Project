@@ -1,0 +1,27 @@
+.board{
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    width:200px;
+    height:500px;
+}
+
+.board img{
+    width:200px;
+    height:300px;
+    border-radius: 5px;
+    border: 1px solid black;
+
+}
+
+.delete-and-view-button{
+    display: flex;
+    gap:10px;
+}
+
+.delete-button{
+    background-color: rgb(178, 121, 155);
+    color: white;
+    height: 60px;
+    align-items: center;
+}

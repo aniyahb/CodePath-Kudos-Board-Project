@@ -1,0 +1,15 @@
+.title{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 10%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: rgb(226, 166, 195);
+    color: #ffffff; /* dark gray text */
+    font-family: "Gill Sans", sans-serif;
+    /* font-size: 25px; */
+
+}
